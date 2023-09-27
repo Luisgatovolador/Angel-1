@@ -6,6 +6,9 @@
 
 -Nombre de tu personaje
 -Angel
+##Integrantes
+- Mayra Alejandra Galvan Garcia
+- Luis Oswaldo Rodriguez Lopez
 
 ## Materiales a utilizar
 
