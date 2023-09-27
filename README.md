@@ -30,3 +30,5 @@ Complementa la tabla
 -Diagrama que contenga los sensores, los actuadores, el microcontrolador, el servidor.
 
 ## Base de Datos
+-Imagen tabla o tablas que usarias (Ej. sensores, actuadores, modelo relacional)
+
