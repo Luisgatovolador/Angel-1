@@ -23,7 +23,7 @@ Complementa la tabla
 |-|-|-|
 | Thonny | 4.2.1 | Software Libre |
 | SSD1602 | 1.8.1 | Software Libre |
-##Prototipo en dibujo
+## Prototipo en dibujo
 - Fotofragia de dibujo a mano alzada de tu personaje
 
 ## Comunicacion
