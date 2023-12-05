@@ -55,6 +55,11 @@ Complementa la tabla
 ## Video
 
 
+https://github.com/Ale0515-GG/Angel/assets/116208731/1c1d9293-ecda-4693-a7a6-7c46e5705d87
+
+
+
+
 ## Flujo
 ![WhatsApp Image 2023-12-05 at 1 39 02 PM](https://github.com/Ale0515-GG/Angel/assets/116208731/e2f8a477-c710-47b9-a788-a7bb11152ec1)
 
