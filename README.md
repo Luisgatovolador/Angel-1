@@ -9,6 +9,7 @@
 ##Integrantes
 - Mayra Alejandra Galvan Garcia
 - Luis Oswaldo Rodriguez Lopez
+- Luis Oswaldo Rodriguez Lopez
 
 ## Materiales a utilizar
 
